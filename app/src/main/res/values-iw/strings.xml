@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoText</string>
+    <string name="message">הודעה…</string>
+    <string name="phone">טלפון</string>
+    <string name="time">שעה</string>
+    <string name="date">תאריך</string>
+    <string name="save">שמור</string>
+    <string name="delete_message">מחק הודעה</string>
+</resources>

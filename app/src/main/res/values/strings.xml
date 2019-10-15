@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutoText</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="add_new_message">Add new message</string>
+    <string name="message">Message…</string>
+    <string name="phone">Phone Number</string>
+    <string name="save">Save</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="delete_message">Delete message</string>
+</resources>
